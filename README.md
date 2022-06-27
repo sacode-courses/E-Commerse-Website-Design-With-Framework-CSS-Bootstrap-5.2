@@ -1,28 +1,26 @@
-# online-store-bootstrap5
-User Interface Design for Online Store Using Bootstrap 5
+# Struktur Dasar HTML
 
-## GIT BRANCH COMMANDS
+    <!DOCTYPE html>
+    <html>
 
-To show all branches
+    <head>
+        <title>Struktur HTML Dasar</title>
+    </head>
 
-    git branch
+    <body>
+        <h1>Hello SaCode!</h1>
+        <p>Learn To Code</p>
+    </body>
 
-Creating a new branch while switched to new branchname
-    
-    git checkout -b branchname
+    </html>
 
-Create new branch without switched
+# Elements
 
-    git branch branchname
+Sebuah element dimulai dari tag pembuka, konten dan tag penutup <tagpembuka> konten di sini </tagpenutup>
+    <h1>Heading 1</h1>
 
-Swhitching to another branch
+Element Paragraph dimulai dari tag <p> hingga penutup tag
+    <p>Learn To Code</p>
 
-    git checkout branchname
-
-Push local branch to GitHub
-
-    git push -u origin branchname
-
-Push all branches to GitHub
-
-    git push --al -u
+Elemen Single Line Break merupakan elemen kosong yang tidak memiliki penutup tag Elemen ini berfungsi untuk menambah spasi kosong diantara konten teks atau paragrap
+    <br>
