@@ -20,7 +20,7 @@ Sebuah element dimulai dari tag pembuka, konten dan tag penutup `<tagpembuka> ko
         
     <h1>Heading 1</h1>
 
-Element Paragraph dimulai dari tag <p> hingga penutup tag
+Element Paragraph dimulai dari tag `<p>` hingga penutup tag `</o>`
 
     <p>Learn To Code</p>
 
