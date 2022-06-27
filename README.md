@@ -27,3 +27,55 @@ Element Paragraph dimulai dari tag `<p>` hingga penutup tag `</p>`
 Elemen `<br>` Single Line Break merupakan elemen kosong yang tidak memiliki penutup tag Elemen ini berfungsi untuk menambah spasi kosong diantara konten teks atau paragrap
 
     <br>
+
+# Attributes
+
+    <!-- codes here -->
+
+# Headings
+
+    <!-- codes here -->
+
+# Paragraphs
+
+    <!-- codes here -->
+
+# Styles
+
+    <!-- codes here -->
+
+# Formating
+
+    <!-- codes here -->
+
+# Comments
+
+    <!-- codes here -->
+
+# Colors
+
+    <!-- codes here -->
+
+# Links
+
+    <!-- codes here -->
+
+# Images
+
+    <!-- codes here -->
+
+# Lists
+
+    <!-- codes here -->
+
+# Classes
+
+    <!-- codes here -->
+
+# Layout
+
+    <!-- codes here -->
+
+# Responsive
+
+    <!-- codes here -->
