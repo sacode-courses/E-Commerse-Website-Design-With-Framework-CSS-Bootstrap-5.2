@@ -24,6 +24,6 @@ Element Paragraph dimulai dari tag `<p>` hingga penutup tag `</p>`
 
     <p>Learn To Code</p>
 
-Elemen Single Line Break merupakan elemen kosong yang tidak memiliki penutup tag Elemen ini berfungsi untuk menambah spasi kosong diantara konten teks atau paragrap
+Elemen `<br>` Single Line Break merupakan elemen kosong yang tidak memiliki penutup tag Elemen ini berfungsi untuk menambah spasi kosong diantara konten teks atau paragrap
 
     <br>
