@@ -79,3 +79,15 @@ Elemen `<br>` Single Line Break merupakan elemen kosong yang tidak memiliki penu
 # Responsive
 
     <!-- codes here -->
+
+# Form
+
+    <!-- codes here -->
+
+# Form Input
+
+    <!-- codes here -->
+
+# Form Input Types
+
+    <!-- codes here -->
