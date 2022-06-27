@@ -16,7 +16,7 @@
 
 # Elements
 
-Sebuah element dimulai dari tag pembuka, konten dan tag penutup `<tagpembuka>` konten di sini `</tagpenutup>`
+Sebuah element dimulai dari tag pembuka, konten dan tag penutup `<tagpembuka> konten di sini </tagpenutup>`
     <h1>Heading 1</h1>
 
 Element Paragraph dimulai dari tag <p> hingga penutup tag
