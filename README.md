@@ -20,6 +20,8 @@
 
 ## Buat akun GitHub
 
+[Buat akun GitHub](https://github.com)
+
 ## Pengenalan GitHub
 
 ## Menghubungkan Visual Studio Code dengan Akun GitHub
@@ -27,3 +29,17 @@
 ## Repository GitHub pertama
 
 ## Dasar Git Commands (git clone, git status, git add, git commit, git push)
+
+	git clone
+
+	git status
+
+	git add .
+
+	git commit -m "pesan di sini"
+
+	git push
+
+	git fetch
+
+	git pull
