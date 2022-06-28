@@ -2,6 +2,8 @@
 
 ## Instal Code Editor Visual Studio Code
 
+	[Download Visual Studio Code](https://code.visualstudio.com/download)
+
 ## Instal Web Browser Google Chrome
 
 ## Membuat dokumen HTML 
