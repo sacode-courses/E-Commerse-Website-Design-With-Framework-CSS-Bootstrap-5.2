@@ -10,6 +10,21 @@
 
 ## Membuat dokumen HTML 
 
+📄 index.html
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+		<title>Dokumen HTML Pertama</title>
+	</head>
+	<body>
+
+		<h1>Hello SaCode!</h1>
+		<p>Let's Learn To Code</p>
+
+	</body>
+	</html>
+
 ## Menampilkan format file melalui pengaturan “File Explorer Options”
 
 ## Menampilkan dokumen HTML di Visual Studio Code
@@ -17,6 +32,8 @@
 ## Menampilkan dokumen HTML di Web Browser Google Chrome
 
 ## Instal Git
+
+[Download Git](https://git-scm.com/downloads)
 
 ## Buat akun GitHub
 
