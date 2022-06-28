@@ -25,7 +25,7 @@ Push local branch to GitHub
 
 Push all branches to GitHub
 
-    git push --al -u
+    git push --all -u
 
 ## WHIMSICAL
 
