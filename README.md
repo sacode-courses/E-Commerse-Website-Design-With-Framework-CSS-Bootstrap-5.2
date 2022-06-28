@@ -39,8 +39,6 @@
 
 ## Pengenalan GitHub
 
-## Menghubungkan Visual Studio Code dengan Akun GitHub
-
 ## Repository GitHub pertama
 
 ## Dasar Git Commands (git clone, git status, git add, git commit, git push)
