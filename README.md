@@ -26,3 +26,12 @@ Push local branch to GitHub
 Push all branches to GitHub
 
     git push --al -u
+
+## WHIMSICAL
+
+[Main Map on Whimsical](https://whimsical.com/sacode-courses-LxBvVS6Y24YH69765aZagT)
+
+
+## GOOGLE DOCS
+
+[Activity Checklist](https://docs.google.com/document/d/1hnOcLbHUlfdy_eCcxpXgfafrECHhlWorQd4o7vYH0K8/edit?usp=sharing)
