@@ -1,10 +1,10 @@
 # Pengaturan Lingkungan Kerja
 
-[Download Sublime Text 3](https://www.sublimetext.com/3)
+🌐 [Download Sublime Text 3](https://www.sublimetext.com/3)
 
 ## Instal Web Browser Google Chrome
 
-[Download Google Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzXYpoC7ACfPZ3AOOuvaoES1kgnR1hXLYnbX-rCmfVYFTCzB8XnkkrRoC-gkQAvD_BwE&gclsrc=aw.ds)
+🌐 [Download Google Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzXYpoC7ACfPZ3AOOuvaoES1kgnR1hXLYnbX-rCmfVYFTCzB8XnkkrRoC-gkQAvD_BwE&gclsrc=aw.ds)
 
 ## Membuat dokumen HTML 
 
@@ -31,11 +31,11 @@
 
 ## Instal Git
 
-[Download Git](https://git-scm.com/downloads)
+🌐 [Download Git](https://git-scm.com/downloads)
 
 ## Buat akun GitHub
 
-[Buat akun GitHub](https://github.com)
+🌐 [Buat akun GitHub](https://github.com)
 
 ## Pengenalan GitHub
 
