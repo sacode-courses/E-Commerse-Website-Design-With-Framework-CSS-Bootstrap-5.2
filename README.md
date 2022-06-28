@@ -1,28 +1,25 @@
-# online-store-bootstrap5
-User Interface Design for Online Store Using Bootstrap 5
+# Pengaturan Lingkungan Kerja
 
-## GIT BRANCH COMMANDS
+## Instal Code Editor Visual Studio Code
 
-To show all branches
+## Instal Web Browser Google Chrome
 
-    git branch
+## Membuat dokumen HTML 
 
-Creating a new branch while switched to new branchname
-    
-    git checkout -b branchname
+## Menampilkan format file melalui pengaturan “File Explorer Options”
 
-Create new branch without switched
+## Menampilkan dokumen HTML di Visual Studio Code
 
-    git branch branchname
+## Menampilkan dokumen HTML di Web Browser Google Chrome
 
-Swhitching to another branch
+## Instal Git
 
-    git checkout branchname
+## Buat akun GitHub
 
-Push local branch to GitHub
+## Pengenalan GitHub
 
-    git push -u origin branchname
+## Menghubungkan Visual Studio Code dengan Akun GitHub
 
-Push all branches to GitHub
+## Repository GitHub pertama
 
-    git push --al -u
+## Dasar Git Commands (git clone, git status, git add, git commit, git push)
