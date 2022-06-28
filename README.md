@@ -4,7 +4,7 @@
 
 ## Instal Web Browser Google Chrome
 
-[Download Google Chrome] (https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzXYpoC7ACfPZ3AOOuvaoES1kgnR1hXLYnbX-rCmfVYFTCzB8XnkkrRoC-gkQAvD_BwE&gclsrc=aw.ds)
+[Download Google Chrome](https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzXYpoC7ACfPZ3AOOuvaoES1kgnR1hXLYnbX-rCmfVYFTCzB8XnkkrRoC-gkQAvD_BwE&gclsrc=aw.ds)
 
 ## Membuat dokumen HTML 
 
