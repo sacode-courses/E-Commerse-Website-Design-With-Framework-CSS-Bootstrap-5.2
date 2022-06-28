@@ -30,7 +30,7 @@
 
 ## Dasar Git Commands (git clone, git status, git add, git commit, git push)
 
-	git clone
+	git clone <repository address>
 
 	git status
 
