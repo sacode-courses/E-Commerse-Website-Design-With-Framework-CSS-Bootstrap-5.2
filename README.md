@@ -3,6 +3,7 @@
 ## Instal Code Editor Visual Studio Code
 
 [Download Visual Studio Code](https://code.visualstudio.com/download)
+[Download Sublime Text 3](https://www.sublimetext.com/3)
 
 ## Instal Web Browser Google Chrome
 
