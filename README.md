@@ -25,7 +25,7 @@
 
 ## Menampilkan format file melalui pengaturan “File Explorer Options”
 
-## Menampilkan dokumen HTML di Visual Studio Code
+## Menampilkan dokumen HTML di Sublime Text 3
 
 ## Menampilkan dokumen HTML di Web Browser Google Chrome
 
