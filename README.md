@@ -1,12 +1,10 @@
 # Pengaturan Lingkungan Kerja
 
-## Instal Code Editor Visual Studio Code
-
-[Download Visual Studio Code](https://code.visualstudio.com/download)
-
 [Download Sublime Text 3](https://www.sublimetext.com/3)
 
 ## Instal Web Browser Google Chrome
+
+[Download Google Chrome] (https://www.google.com/chrome/?brand=YTUH&gclid=CjwKCAjwzeqVBhAoEiwAOrEmzXYpoC7ACfPZ3AOOuvaoES1kgnR1hXLYnbX-rCmfVYFTCzB8XnkkrRoC-gkQAvD_BwE&gclsrc=aw.ds)
 
 ## Membuat dokumen HTML 
 
