@@ -98,3 +98,44 @@ Cara menghubungkan Framework CSS Bootstrap yang sudah didownload
     <link href="./css/bootstrap.min.css">
 </head>
 ```
+
+Penerapan style CSS Bootstrap dilakukan dengan menempatkan attribute ```class="value"``` di dalam elemen pembuka html
+    
+Membuat container menggunakan ```class="container"```
+Membuat baris menggunakan ```class="row"```
+Membuat kolom menggunakan ```class="col-12"```
+Membuat margin atas dan margin bawah menggunakan ```class="my-5"```
+Membuat padding atas dan padding bawah menggunakan ```class="py-5"```
+Membuat warna latar belakang gelap menggunakan ```class="bg-dark"```
+Membuat warna text terang menggunakan ```class="text-light"```
+Membuat bayangan menggunakan ```class="shadow"```
+Membuat garis lengkung menggunakan ```class="rounded"```
+
+Berikut ini contoh penerapannya
+
+```html
+<body class="bg-light text-light">
+
+    <!-- .container -->
+    <div class="container">
+
+        <!-- .row -->
+        <div class="row my-5 py-5 bg-dark px-5 shadow rounded">
+            
+            <!-- .col -->
+            <div class="col-12">
+                
+                <h1>Framework Bootstrap</h1>
+                <p>Halaman ini didesain menggunakan Framework Bootstrap 5.2</p>
+
+            </div>
+            <!-- end .col -->
+
+        </div>
+        <!-- end .row -->
+        
+    </div>
+    <!-- end .container -->
+
+</body>
+```
