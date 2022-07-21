@@ -4,7 +4,7 @@
 
 Inline CSS diterapkan menggunakan attribute ```style="property:value;"``` di dalam tag pembuka html
 
-```css
+```html
     <!-- Color -->
     <p style="color: blue;">CSS Colors</p>
 
