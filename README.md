@@ -70,7 +70,7 @@ External CSS diterapkan dengan menempatkan code CSS di dalam dokumen CSS secara 
 ```html
 <head>
     <!-- Menghubungkan Dokumen CSS -->
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
 </head>
 ```
 
@@ -94,8 +94,8 @@ Cara menghubungkan Framework CSS Bootstrap yang sudah didownload
 
 ```html
 <head>
-    <!-- Menghubungkan file Framework CSS Bootstrap yang sudah didownload-->
-    <link href="./css/bootstrap.min.css">
+    <!-- Menghubungkan Framework CSS Bootstrap melalui CDN -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 </head>
 ```
 
