@@ -1,93 +1,39 @@
-# Struktur Dasar HTML
+# Mengenal CSS
 
-    <!DOCTYPE html>
-    <html>
+## Inline CSS
 
-    <head>
-        <title>Struktur HTML Dasar</title>
-    </head>
+Inline CSS diterapkan menggunakan attribute ```style="property:value;"``` di dalam tag pembuka html
 
-    <body>
-        <h1>Hello SaCode!</h1>
-        <p>Learn To Code</p>
-    </body>
+```css
+    <!-- Color -->
+    <p style="color: blue;">CSS Colors</p>
 
-    </html>
+    <!-- Background -->
+    <div style="background: blue;">
+        CSS Background
+    </div>
 
-# Elements
+    <!-- Border -->
+    <div style="border: solid blue 1px;">
+        CSS Borders
+    </div>
 
-Sebuah element dimulai dari tag pembuka, konten dan tag penutup `<tagpembuka>` konten di sini `</tagpenutup>`
-        
-    <h1>Heading 1</h1>
+    <!-- Margin -->
+    <div style="margin: 20px; background: yellow;">
+        CSS Margin
+    </div>
 
-Element Paragraph dimulai dari tag `<p>` hingga penutup tag `</p>`
+    <!-- Padding -->
+    <div style="padding: 20px;background: orange;">
+        CSS Padding
+    </div>
+```
 
-    <p>Learn To Code</p>
 
-Elemen `<br>` Single Line Break merupakan elemen kosong yang tidak memiliki penutup tag Elemen ini berfungsi untuk menambah spasi kosong diantara konten teks atau paragrap
+## Internal CSS
 
-    <br>
 
-# Attributes
+## External CSS
 
-    <!-- codes here -->
 
-# Headings
-
-    <!-- codes here -->
-
-# Paragraphs
-
-    <!-- codes here -->
-
-# Styles
-
-    <!-- codes here -->
-
-# Formating
-
-    <!-- codes here -->
-
-# Comments
-
-    <!-- codes here -->
-
-# Colors
-
-    <!-- codes here -->
-
-# Links
-
-    <!-- codes here -->
-
-# Images
-
-    <!-- codes here -->
-
-# Lists
-
-    <!-- codes here -->
-
-# Classes
-
-    <!-- codes here -->
-
-# Layout
-
-    <!-- codes here -->
-
-# Responsive
-
-    <!-- codes here -->
-
-# Form
-
-    <!-- codes here -->
-
-# Form Input
-
-    <!-- codes here -->
-
-# Form Input Types
-
-    <!-- codes here -->
+## Framework CSS Bootstrap
