@@ -101,15 +101,15 @@ Cara menghubungkan Framework CSS Bootstrap yang sudah didownload
 
 Penerapan style CSS Bootstrap dilakukan dengan menempatkan attribute ```class="value"``` di dalam elemen pembuka html
     
-Membuat container menggunakan ```class="container"```
-Membuat baris menggunakan ```class="row"```
-Membuat kolom menggunakan ```class="col-12"```
-Membuat margin atas dan margin bawah menggunakan ```class="my-5"```
-Membuat padding atas dan padding bawah menggunakan ```class="py-5"```
-Membuat warna latar belakang gelap menggunakan ```class="bg-dark"```
-Membuat warna text terang menggunakan ```class="text-light"```
-Membuat bayangan menggunakan ```class="shadow"```
-Membuat garis lengkung menggunakan ```class="rounded"```
+Membuat container menggunakan ```class="container"``` <br>
+Membuat baris menggunakan ```class="row"``` <br>
+Membuat kolom menggunakan ```class="col-12"``` <br>
+Membuat margin atas dan margin bawah menggunakan ```class="my-5"``` <br>
+Membuat padding atas dan padding bawah menggunakan ```class="py-5"``` <br>
+Membuat warna latar belakang gelap menggunakan ```class="bg-dark"``` <br>
+Membuat warna text terang menggunakan ```class="text-light"``` <br>
+Membuat bayangan menggunakan ```class="shadow"``` <br>
+Membuat garis lengkung menggunakan ```class="rounded"``` <br>
 
 Berikut ini contoh penerapannya
 
