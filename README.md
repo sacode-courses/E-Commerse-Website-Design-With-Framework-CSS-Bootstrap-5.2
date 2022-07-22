@@ -2,6 +2,8 @@
 
 ## Inline CSS
 
+📄inline-css.html
+
 Inline CSS diterapkan menggunakan attribute ```style="property:value;"``` di dalam tag pembuka html
 
 ```html
@@ -41,6 +43,8 @@ Inline CSS diterapkan menggunakan attribute ```style="property:value;"``` di dal
 
 ## Internal CSS
 
+internal-css.html
+
 Internal CSS diterapkan dengan menempatkan code CSS di dalam elemen ```<style>...</style>``` diantara elemen ```<head>...</head>```
 
 ```html
@@ -65,6 +69,8 @@ Internal CSS diterapkan dengan menempatkan code CSS di dalam elemen ```<style>..
 
 ## External CSS
 
+📄external-css.html
+
 External CSS diterapkan dengan menempatkan code CSS di dalam dokumen CSS secara terpisah dengan dokumen HTML. Misalkan dimasukan ke dalam file ```style.css```. Kemudian dihubungkan dengan menggunakan elemen ```<link href="namafolder/namafile.css">```
 
 ```html
@@ -74,14 +80,26 @@ External CSS diterapkan dengan menempatkan code CSS di dalam dokumen CSS secara 
 </head>
 ```
 
+Dokumen CSS
+
+📄style.css
+
+```css
+
+```
+
 
 ## Framework CSS Bootstrap
+
+
 
 Framework CSS merupakan external CSS yang sudah dibuat atau dikembangkan oleh pihak lain, kemudian diterapkan ke dalam project kita.
 
 Salah satu framework CSS adalah Bootstrap
 
 Cara menghubungkan Framework CSS Bootstrap melalui Link CDN
+
+📄framework-css-bootstrap-cdn.html
 
 ```html
 <head>
@@ -91,6 +109,11 @@ Cara menghubungkan Framework CSS Bootstrap melalui Link CDN
 ```
 
 Cara menghubungkan Framework CSS Bootstrap yang sudah didownload
+
+📄framework-css-bootstrap-download.html
+
+File Bootstrap
+📄bootstrap.min.css
 
 ```html
 <head>
