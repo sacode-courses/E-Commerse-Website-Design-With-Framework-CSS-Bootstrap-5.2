@@ -1,4 +1,4 @@
-# Pengaturan Lingkungan Kerja
+# Project02 - Dokumen HTML Pertama
 
 🌐 [Download Sublime Text 3](https://www.sublimetext.com/3)
 
