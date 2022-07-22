@@ -43,7 +43,7 @@ Inline CSS diterapkan menggunakan attribute ```style="property:value;"``` di dal
 
 ## Internal CSS
 
-internal-css.html
+📄internal-css.html
 
 Internal CSS diterapkan dengan menempatkan code CSS di dalam elemen ```<style>...</style>``` diantara elemen ```<head>...</head>```
 
@@ -130,8 +130,6 @@ p {
 
 
 ## Framework CSS Bootstrap
-
-
 
 Framework CSS merupakan external CSS yang sudah dibuat atau dikembangkan oleh pihak lain, kemudian diterapkan ke dalam project kita.
 
