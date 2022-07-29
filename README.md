@@ -1,9 +1,19 @@
-# Project04 - Penerapan Framework CSS Bootstrap 5.2
+# Mengenal Framework CSS Bootstrap (2)
 
-## sub title
+## Tutorial Video
 
-some text..
+[Mengenal Framework CSS Bootstrap (2)](url_here)
+
+## Garis Besar
+
+✅ Typography <br>
+✅ Images <br>
+✅ Tables <br>
+
+## Title
+
+some texts
 
 ```html
-    some html codes
+    <!-- some codes -->
 ```
