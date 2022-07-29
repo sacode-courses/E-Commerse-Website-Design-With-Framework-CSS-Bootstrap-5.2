@@ -12,17 +12,18 @@
 
 ## Typography
 
-Dokumentasi terkait Typography yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/typography/)
+Dokumentasi Typography yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/typography/)
 
-some texts
+📄 typography.html
 
 ```html
-    <!-- some codes -->
+    <!-- HTML headings, <h1> sampai <h6> -->
+    <h1>Contoh heading H1</h1>
 ```
 
 ## Images
 
-Dokumentasi terkait Images yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/images/)
+Dokumentasi Images yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/images/)
 
 some texts
 
@@ -32,7 +33,7 @@ some texts
 
 ## Tables
 
-Dokumentasi terkait Tables yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/tables/)
+Dokumentasi Tables yang ada di Bootstrap 5.2 bisa diakses [di sini](https://getbootstrap.com/docs/5.2/content/tables/)
 
 some texts
 
