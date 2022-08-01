@@ -1,28 +1,34 @@
-# online-store-bootstrap5
-User Interface Design for Online Store Using Bootstrap 5
+# Judul Topik
 
-## GIT BRANCH COMMANDS
+## Tutorial Video
 
-To show all branches
+[judul](url)
 
-    git branch
+## Gambaran Umum
 
-Creating a new branch while switched to new branchname
-    
-    git checkout -b branchname
+teks di sini...
 
-Create new branch without switched
+## Garis Besar
 
-    git branch branchname
+✅ item <br>
+✅ item <br>
 
-Swhitching to another branch
+## 📚 Repository GitHub
 
-    git checkout branchname
+Buat repository baru di GitHub dengan format nama ``` sacode-e-commerse-project08-janzen ```
 
-Push local branch to GitHub
+Gunakan Git Bash untuk melakukan proses download dan update repository dari komputer
 
-    git push -u origin branchname
+```git clone <remote_repository>```
 
-Push all branches to GitHub
+```
+git clone https://github.com/username/sacode-e-commerse-project08-janzen.git
+```
 
-    git push --al -u
+Perintah-perintah Git dasar
+```
+git clone
+git add .
+git commit -m "pesan commit"
+git push
+```
