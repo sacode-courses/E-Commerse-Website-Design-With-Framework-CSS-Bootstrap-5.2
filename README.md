@@ -1,1 +1,34 @@
-# Project 05 - ...
+# Desain Header & Footer Dengan CSS Framework Bootstrap 5.2
+
+## Tutorial Video
+
+[judul](url)
+
+## Gambaran Umum
+
+teks di sini...
+
+## Garis Besar
+
+✅ item <br>
+✅ item <br>
+
+## 📚 Repository GitHub
+
+Buat repository baru di GitHub dengan format nama ``` sacode-e-commerse-project05-janzen ```
+
+Gunakan Git Bash untuk melakukan proses download dan update repository dari komputer
+
+```git clone <remote_repository>```
+
+```
+git clone https://github.com/username/sacode-e-commerse-project05-janzen.git
+```
+
+Perintah-perintah Git dasar
+```
+git clone
+git add .
+git commit -m "pesan commit"
+git push
+```
