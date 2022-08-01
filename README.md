@@ -15,14 +15,14 @@ teks di sini...
 
 ## 📚 Repository GitHub
 
-Buat repository baru di GitHub dengan format nama ``` sacode-e-commerse-project10-namadepan ```
+Buat repository baru di GitHub dengan format nama ``` sacode-e-commerse-project09-namadepan ```
 
 Gunakan Git Bash untuk melakukan proses download dan update repository dari komputer
 
 ```git clone <remote_repository>```
 
 ```
-git clone https://github.com/username/sacode-e-commerse-project10-namadepan.git
+git clone https://github.com/username/sacode-e-commerse-project09-namadepan.git
 ```
 
 Perintah-perintah Git dasar
