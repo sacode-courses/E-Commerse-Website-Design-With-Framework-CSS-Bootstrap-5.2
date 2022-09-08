@@ -27,6 +27,10 @@ Push all branches to GitHub
 
     git push --all -u
 
+Change branch name
+
+    git branch -m new-branch-name
+
 ## WHIMSICAL
 
 [Main Map on Whimsical](https://whimsical.com/sacode-courses-LxBvVS6Y24YH69765aZagT)
