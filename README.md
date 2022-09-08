@@ -36,4 +36,4 @@ Delete local branch
 
 Delete remote branch
 
-    git push origin delete branchname
+    git push origin --delete branchname
