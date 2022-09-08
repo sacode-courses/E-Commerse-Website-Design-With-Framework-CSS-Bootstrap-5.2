@@ -28,7 +28,7 @@ Push all branches to GitHub
 
 Change branch name
 
-    git branch -m new-branch-name
+    git branch -m newbranchname
 
 Delete local branch
 
