@@ -1,4 +1,4 @@
-# Project02 - Dokumen HTML Pertama
+# Day00 - 📚 Persiapan Kelas
 
 🌐 [Download Sublime Text 3](https://www.sublimetext.com/3)
 
