@@ -30,3 +30,10 @@ Change branch name
 
     git branch -m new-branch-name
 
+Delete local branch
+
+    git branch -d branchname
+
+Delete remote branch
+
+    git push master delete branchname
