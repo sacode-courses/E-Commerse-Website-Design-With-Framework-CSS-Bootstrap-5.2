@@ -1,7 +1,6 @@
-# online-store-bootstrap5
-User Interface Design for Online Store Using Bootstrap 5
+# KELAS CODING SACODE E-COMMERSE
 
-## GIT BRANCH COMMANDS
+## GIT COMMANDS
 
 To show all branches
 
@@ -31,11 +30,3 @@ Change branch name
 
     git branch -m new-branch-name
 
-## WHIMSICAL
-
-[Main Map on Whimsical](https://whimsical.com/sacode-courses-LxBvVS6Y24YH69765aZagT)
-
-
-## GOOGLE DOCS
-
-[Activity Checklist](https://docs.google.com/document/d/1hnOcLbHUlfdy_eCcxpXgfafrECHhlWorQd4o7vYH0K8/edit?usp=sharing)
