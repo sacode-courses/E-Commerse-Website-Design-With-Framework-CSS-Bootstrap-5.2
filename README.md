@@ -1,34 +1,3 @@
-# Desain Header & Footer Dengan CSS Framework Bootstrap 5.2
-
-## Tutorial Video
-
-[judul](url)
-
-## Gambaran Umum
-
-teks di sini...
+# Day05 - 📚 Font Awesome Icons 6.x
 
 ## Garis Besar
-
-✅ item <br>
-✅ item <br>
-
-## 📚 Repository GitHub
-
-Buat repository baru di GitHub dengan format nama ``` sacode-e-commerse-project05-namadepan ```
-
-Gunakan Git Bash untuk melakukan proses download dan update repository dari komputer
-
-```git clone <remote_repository>```
-
-```
-git clone https://github.com/username/sacode-e-commerse-project05-namadepan.git
-```
-
-Perintah-perintah Git dasar
-```
-git clone
-git add .
-git commit -m "pesan commit"
-git push
-```
