@@ -25,7 +25,7 @@ git clone https://github.com/username/alamat-repository
 
 ### git status
 
-Perintah ini digunakan untuk melihat status perubahan di dalam project directory
+Perintah ini digunakan untuk melihat status perubahan di dalam project directory yang harus di commit (akan berwarna merah). Sedangkan file yang sudah dilakukan proses commit akan berwarna hijau.
 
 
 ```git
