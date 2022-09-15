@@ -23,6 +23,15 @@ Perintah ini digunakan untuk mendapatkan / mendownload repository dari alamat ur
 git clone https://github.com/username/alamat-repository
 ```
 
+### git status
+
+Perintah ini digunakan untuk melihat status perubahan di dalam project directory
+
+
+```git
+git status
+```
+
 ### git add .
 
 Perintah ini digunakan untuk menambah semua file baru atau file hasil perubahan ke dalam 'staging area'
