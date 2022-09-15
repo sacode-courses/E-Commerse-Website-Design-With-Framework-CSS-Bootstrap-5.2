@@ -2,6 +2,8 @@
 
 ## Basic Git Commands
 
+Git Commands atau perintah-perintah git merupakan teks bagi para pengembang (developer) dalam melakukan tugas-tugas pada sistem "version control" dengan tujuan melacak dan melakukan perubahan-perubahan
+
 ### git config
 
 Perintah ini digunakan untuk mengatur nama dan alamat email untuk digunakan dalam proses melakukan perubahan-perubahan pada project repository
