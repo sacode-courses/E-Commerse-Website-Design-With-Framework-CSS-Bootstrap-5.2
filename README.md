@@ -42,6 +42,8 @@ git add .
 
 ### git commit -m "commit pertama"
 
+Perintah ini digunakan untuk memasukan hasil perubahan ke dalam catatan versi (version history) secara permanent
+
 ```git
 git commit -m "commit pertama"
 ```
