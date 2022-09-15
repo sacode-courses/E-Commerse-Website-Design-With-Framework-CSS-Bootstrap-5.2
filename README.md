@@ -31,10 +31,10 @@ Perintah ini digunakan untuk menambah semua file baru atau file hasil perubahan 
 git add .
 ```
 
-### git commit -m "pesan anda"
+### git commit -m "commit pertama"
 
 ```git
-git commit -m "pesan anda"
+git commit -m "commit pertama"
 ```
 
 
