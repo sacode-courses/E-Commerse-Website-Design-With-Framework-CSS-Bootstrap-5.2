@@ -2,6 +2,18 @@
 
 ## Basic Git Commands
 
+### git config
+
+Perintah ini digunakan untuk mengatur nama dan alamat email untuk digunakan dalam proses melakukan perubahan-perubahan pada project repository
+
+```git
+git config --global user.name "[Nama Lengkap]"
+```
+
+```git
+git config --global user.email "[alamat@email.com]"
+```
+
 ### git clone
 
 Perintah ini digunakan untuk mendapatkan / mendownload repository dari alamat url github repository yang telah dibuat
@@ -64,10 +76,26 @@ Perintah ini digunakan digunakan untuk membuat branch baru dan juga langsung ber
 git checkout -b [nama-branch]
 ```
 
+### git push --all -u
+
+Perintah ini digunakan untuk mengirim semua branch baru yang dibuat di repository lokal ke repository remote di GitHub
+
+```git
+git push --all -u
+```
+
 ### git remote
 
 Perintah ini digunakan untuk menghubungkan repository lokal di komputer dengan repository di server GitHub
 
 ```git
 git remode add [variable-name] [remote-server-link]
+```
+
+### git pull
+
+Perintah ini digunakan untuk mencocokan dan menggabungkan perubahan dari server remote ke dalam direktori yang sedang dikerjakan
+
+```git
+git pull
 ```
