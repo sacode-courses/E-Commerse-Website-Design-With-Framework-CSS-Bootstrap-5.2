@@ -59,10 +59,13 @@ git push
 
 ### git branch
 
-Perintah ini digunakan untuk menampilkan semua branch yang sudah dibuat
+Perintah ini digunakan untuk menampilkan semua branch yang sudah dibuat.
+
+Saat repository pertama kali dibuat, hanya ada satu branch dengan nama branch : main.
+
 
 ```git
-
+git branch
 ```
 
 ### git branch [nama-branch]
