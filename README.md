@@ -40,6 +40,8 @@ git commit -m "commit pertama"
 
 ### git push
 
+Perintah ini digunakan untuk mengirim hasil commit atau perubahan dari direktori lokal ke direktory remote pada GitHub
+
 ```git
 git push
 ```
