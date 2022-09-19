@@ -5,11 +5,11 @@
 ## Struktur dasar HTML
 
 Struktur dasar HTML terdiri dari 5 element, yaitu : 
-```<!DOCTYPE html>```
-```<html>```
-```<head>```
-```<title>```
-```<body>```
+```<!DOCTYPE html>``` <br>
+```<html>``` <br>
+```<head>``` <br>
+```<title>``` <br>
+```<body>``` <br>
 
 Berikut ini contoh penulisannya secara lengkap.
 
