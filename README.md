@@ -28,6 +28,8 @@ Berikut ini contoh penulisannya secara lengkap.
 ```
 ## Logo
 
+<img src="./img/html-logo.png" width="200px">
+
 ## Tags
 
 Tag HTML terdiri dari kata kunci yang menjelaskan bagaimana sebuah konten web diformat atau ditampilkan.
