@@ -7,4 +7,4 @@ Melalui tutorial ini diperkenalkan apa itu bootstrap dan bagaimana menerapkan bo
 
 ## Logo
 
-<img src="./img/html-logo.png" width="200px">
+<img src="./img/css-logo.png" width="200px">
