@@ -1,0 +1,35 @@
+/* penerapan menggunakan universal selector  */
+* {
+    font-family: monospace;
+}
+
+/* penerapan menggunakan element selector*/
+h1 {
+    color:green;
+}
+p {
+    color:blueviolet ;
+}
+
+/* penerapan menggunakan class selector */
+.bg-hitam{
+    background-color: black;
+}
+.bg-biru{
+    background-color: darkblue;
+}
+
+/* penerapan menggunakan id selector */
+#border {
+    border-style: solid;
+    border-color:black;
+    padding: 20px;
+}
+
+#margin {
+    margin: 20px;
+}
+
+#padding {
+    padding: 20px;
+}
