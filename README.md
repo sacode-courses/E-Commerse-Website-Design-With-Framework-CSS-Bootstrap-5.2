@@ -5,3 +5,6 @@ Bootstrap merupakan Framework CSS yang tersedia secara gratis bagi para pengemba
 Melalui tutorial ini diperkenalkan apa itu bootstrap dan bagaimana menerapkan bootstrap dalam proyek pengembangan website melalui berbagai referensi belajar yang telah tersedia.
 
 
+## Logo
+
+<img src="./img/html-logo.png" width="200px">
