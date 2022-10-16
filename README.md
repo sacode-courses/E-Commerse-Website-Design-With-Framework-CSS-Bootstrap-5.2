@@ -1,7 +1,5 @@
 # Day08 - 📚 Desain Banner
 
-
-
 ## Starter template
 
 Copy & paste struktur dasar HTML dan taru di file proyek baru untuk memulai desain.
