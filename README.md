@@ -57,8 +57,8 @@ Struktur dasar HTML berikut sudah tercantum Bootstrap 5.x CSS, Bootstrap 5.x Jav
 
 ## Section Header
 
-[Lihat Demo](...)
+<img src="https://github.com/sacode-courses/e-commerse/blob/day07/_screenshot/header.png" width="500px">
 
 ## Section Footer
 
-[Lihat Demo](...)
+<img src="https://github.com/sacode-courses/e-commerse/blob/day07/_screenshot/footer.png" width="500px">
