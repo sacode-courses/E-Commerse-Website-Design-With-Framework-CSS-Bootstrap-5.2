@@ -55,6 +55,6 @@ Struktur dasar HTML berikut sudah tercantum Bootstrap 5.x CSS, Bootstrap 5.x Jav
 </html>
 ```
 
-## Section Banner
+## Section Produk
 
 <img src="https://github.com/sacode-courses/e-commerse/blob/day09/_screenshot/produk.png" width="500px">
