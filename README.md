@@ -59,4 +59,4 @@ Struktur dasar HTML berikut sudah tercantum Bootstrap 5.x CSS, Bootstrap 5.x Jav
 
 ## Section Banner
 
-<img src="https://github.com/sacode-courses/e-commerse/blob/day07/_screenshot/banner.png" width="500px">
+<img src="https://github.com/sacode-courses/e-commerse/blob/day08/_screenshot/banner.png" width="500px">
